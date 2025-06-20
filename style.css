@@ -1,0 +1,81 @@
+
+body {
+  margin: 0;
+  font-family: 'Arial Rounded MT Bold', sans-serif;
+  background: #b72d24;
+  color: #fce9c4;
+  text-align: center;
+}
+
+.hero {
+  padding: 40px 20px;
+}
+
+.hero-logo {
+  max-width: 160px;
+  margin-bottom: 20px;
+}
+
+.hero-title {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.hero-subtitle {
+  font-size: 1.2em;
+  margin-top: 10px;
+  color: #fff2d8;
+}
+
+.qr-section {
+  background: #fce9c4;
+  color: #b72d24;
+  padding: 40px 20px;
+  border-radius: 30px;
+  margin: 40px 10px;
+}
+
+.qr-section h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.qr-section p {
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.qr-image {
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.social-footer {
+  margin-top: 40px;
+  padding-bottom: 40px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 14px 24px;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.insta {
+  background: #e1306c;
+}
+
+.snap {
+  background: #fffc00;
+  color: #000;
+}
+
+.whatsapp {
+  background: #25d366;
+}
